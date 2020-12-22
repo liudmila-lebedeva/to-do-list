@@ -1,0 +1,38 @@
+body, html {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #DBDBDB;
+}
+
+.container {
+    width: 360px;
+}
+
+#input {
+    width: 300px;
+    height: 45px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#add-to-do {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.to-do {
+    margin-top: 25px;
+
+}
+
+.p_style {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 35px;
+}
